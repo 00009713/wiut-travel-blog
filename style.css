@@ -222,25 +222,7 @@ nav {
     grid-row: 21;
 }
 
-#slide-6 {
-    grid-row: 23;
-}
 
-
-#content-6 {
-    grid-row: 25;
-}
-
-.slide-container {
-    position: relative;
-    display: inline-grid;
-    grid-template-columns: repeat(12, 1fr);
-}
-
-.slide img {
-    height: 315px;
-    width: 560px;
-}
 
 .slide-text {
     width: 620px;
