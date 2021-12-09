@@ -6,4 +6,4 @@ Website's functionality: it has a button for switching modes (Dark or light) --L
 
 Github profile: https://github.com/00009713
 
-https://00009713travel-blog.netlify.app/
+https://wiut-wanderlust.netlify.app/
